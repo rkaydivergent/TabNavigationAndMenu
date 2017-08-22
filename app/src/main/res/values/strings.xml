@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TabNavigationAndMenu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tabfragment2">TabFragment2</string>
+    <string name="tabfragment1">TabFragment1</string>
+    <string	name="tab_label1">Top	Stories</string>
+    <string	name="tab_label2">Tech	News</string>
+    <string	name="tab_label3">Cooking</string>
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="about">About</string>
+
+</resources>
